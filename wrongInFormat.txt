@@ -1,0 +1,7 @@
+Fialka; 1, Popis fialky - ; je fialova a hezka; 3; 2021-01-01; 2021-05-12;
+Vanocni  ; Hvezda, z poznamkou "bez poznamky"; 4; 2021-04-01; 2021-05-10
+Bazalka v kuchyni; 3;    2021-09-04; 2021-09-04
+Kaktus; Pozor! ostry, Ne zalivat!; 33; 2020-07-14; 2021-09-04
+Divne  Jme;no   ;; Pro kontrolu, , neco; 13; 2020-10-11; 2021-09-04
+Ahoj; bez poznamky; 7; 2023-10-28; 2023-10-28
+Test2; bez poznamky; 4; 2023-10-28; 2023-10-28
