@@ -114,7 +114,10 @@ public class Main{
         ListOfPlant.writeToNewFile(Settings.fromFile,plants);
         plants = ListOfPlant.readFromFile(Settings.fromFile);
 // print result and compare version        
-        System.out.println("\n \tafter remove by name, and sort, print two version for compare\n");
+        System.out.println("\n \tafter remove by name, and sort by Watering, print two version for compare\n");
+        printAllPlantDescription(plants);
+        System.out.println("\n \t after sort by name\n");
+        Collections.sort(plants,(a,b) -> a.getName().compareTo(b.getName()));
         printAllPlantDescription(plants);
     }
     public static void printAllPlantDescription(List<Plant> plants) {
